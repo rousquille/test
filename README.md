@@ -1,4 +1,4 @@
 # test
 
-[](./demo.gif)
+![](demo.gif)
 
